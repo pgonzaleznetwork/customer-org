@@ -1,0 +1,5 @@
+salesforce.Profile Sales_Development_Manager@s {
+  fullName = "Sales Development Manager"
+  custom = true
+  userLicense = "Salesforce"
+}

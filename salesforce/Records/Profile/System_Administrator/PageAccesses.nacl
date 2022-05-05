@@ -1,0 +1,124 @@
+salesforce.Profile Admin {
+  pageAccesses = {
+    AnswersHome = {
+      apexPage = "AnswersHome"
+      enabled = true
+    }
+    BandwidthExceeded = {
+      apexPage = "BandwidthExceeded"
+      enabled = true
+    }
+    ChangePassword = {
+      apexPage = "ChangePassword"
+      enabled = true
+    }
+    CommunitiesLanding = {
+      apexPage = "CommunitiesLanding"
+      enabled = true
+    }
+    CommunitiesLogin = {
+      apexPage = "CommunitiesLogin"
+      enabled = true
+    }
+    CommunitiesSelfReg = {
+      apexPage = "CommunitiesSelfReg"
+      enabled = true
+    }
+    CommunitiesSelfRegConfirm = {
+      apexPage = "CommunitiesSelfRegConfirm"
+      enabled = true
+    }
+    CommunitiesTemplate = {
+      apexPage = "CommunitiesTemplate"
+      enabled = true
+    }
+    Exception = {
+      apexPage = "Exception"
+      enabled = true
+    }
+    FileNotFound = {
+      apexPage = "FileNotFound"
+      enabled = true
+    }
+    ForgotPassword = {
+      apexPage = "ForgotPassword"
+      enabled = true
+    }
+    ForgotPasswordConfirm = {
+      apexPage = "ForgotPasswordConfirm"
+      enabled = true
+    }
+    IdeasHome = {
+      apexPage = "IdeasHome"
+      enabled = true
+    }
+    InMaintenance = {
+      apexPage = "InMaintenance"
+      enabled = true
+    }
+    MicrobatchSelfReg = {
+      apexPage = "MicrobatchSelfReg"
+      enabled = true
+    }
+    MyProfilePage = {
+      apexPage = "MyProfilePage"
+      enabled = true
+    }
+    SRM_GeneragePackageXMLListView = {
+      apexPage = "SRM_GeneragePackageXMLListView"
+      enabled = true
+    }
+    SRM_MetadataConflictWarning = {
+      apexPage = "SRM_MetadataConflictWarning"
+      enabled = true
+    }
+    SRM_SelectMetadataLex = {
+      apexPage = "SRM_SelectMetadataLex"
+      enabled = true
+    }
+    STage = {
+      apexPage = "STage"
+      enabled = true
+    }
+    SameName = {
+      apexPage = "SameName"
+      enabled = true
+    }
+    SimilarBoats = {
+      apexPage = "SimilarBoats"
+      enabled = true
+    }
+    SiteLogin = {
+      apexPage = "SiteLogin"
+      enabled = true
+    }
+    SiteRegister = {
+      apexPage = "SiteRegister"
+      enabled = true
+    }
+    SiteRegisterConfirm = {
+      apexPage = "SiteRegisterConfirm"
+      enabled = true
+    }
+    SiteTemplate = {
+      apexPage = "SiteTemplate"
+      enabled = true
+    }
+    StdExceptionTemplate = {
+      apexPage = "StdExceptionTemplate"
+      enabled = true
+    }
+    SupportEmailAction = {
+      apexPage = "SupportEmailAction"
+      enabled = true
+    }
+    Unauthorized = {
+      apexPage = "Unauthorized"
+      enabled = true
+    }
+    UnderConstruction = {
+      apexPage = "UnderConstruction"
+      enabled = true
+    }
+  }
+}

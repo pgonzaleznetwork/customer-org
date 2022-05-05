@@ -1,0 +1,252 @@
+salesforce.Profile Minimum_Access___Salesforce@ssbs {
+  layoutAssignments = {
+    Account_Account_Layout@bs = [
+      {
+        layout = salesforce.Layout.instance.Account_Account_Layout@bs
+        recordType = salesforce.RecordType.instance.Account_Customer
+      },
+      {
+        layout = salesforce.Layout.instance.Account_Account_Layout@bs
+        recordType = salesforce.RecordType.instance.Account_Internal
+      },
+      {
+        layout = salesforce.Layout.instance.Account_Account_Layout@bs
+        recordType = salesforce.RecordType.instance.Account_Partner
+      },
+      {
+        layout = salesforce.Layout.instance.Account_Account_Layout@bs
+        recordType = salesforce.RecordType.instance.Account_Reseller
+      },
+    ]
+    AccountBrand_Account_Brand_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.AccountBrand_Account_Brand_Layout@bss
+      },
+    ]
+    ActiveScratchOrg_Active_Scratch_Org_Layout@bsss = [
+      {
+        layout = "ActiveScratchOrg-Active Scratch Org Layout"
+      },
+    ]
+    AssetAction_Asset_Action_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.AssetAction_Asset_Action_Layout@bss
+      },
+    ]
+    AssetActionSource_Asset_Action_Source_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.AssetActionSource_Asset_Action_Source_Layout@bsss
+      },
+    ]
+    AssetStatePeriod_Asset_State_Period_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.AssetStatePeriod_Asset_State_Period_Layout@bsss
+      },
+    ]
+    AssociatedLocation_Associated_Location_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.AssociatedLocation_Associated_Location_Layout@bss
+      },
+    ]
+    BusinessBrand_Business_Brand_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.BusinessBrand_Business_Brand_Layout@bss
+      },
+    ]
+    CardPaymentMethod_Card_Payment_Method_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.CardPaymentMethod_Card_Payment_Method_Layout@bsss
+      },
+    ]
+    Center__c_Center_Layout@uubs = [
+      {
+        layout = salesforce.Layout.instance.Center__c_Center_Layout@uubs
+      },
+    ]
+    Child__c_Child_Layout@uubs = [
+      {
+        layout = salesforce.Layout.instance.Child__c_Child_Layout@uubs
+      },
+    ]
+    CreditMemo_Credit_Memo_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.CreditMemo_Credit_Memo_Layout@bss
+      },
+    ]
+    CreditMemoLine_Credit_Memo_Line_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.CreditMemoLine_Credit_Memo_Line_Layout@bsss
+      },
+    ]
+    Custom_Object__c_Custom_Object_Layout@uuubss = [
+      {
+        layout = salesforce.Layout.instance.Custom_Object__c_Custom_Object_Layout@uuubss
+      },
+    ]
+    Customer_Customer_Layout@bs = [
+      {
+        layout = salesforce.Layout.instance.Customer_Customer_Layout@bs
+      },
+    ]
+    DelegatedAccount_External_Managed_Account_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.DelegatedAccount_External_Managed_Account_Layout@bsss
+      },
+    ]
+    DigitalWallet_Digital_Wallet_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.DigitalWallet_Digital_Wallet_Layout@bss
+      },
+    ]
+    FeedItem_Feed_Item_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.FeedItem_Feed_Item_Layout@bss
+      },
+    ]
+    Field_referencing__mdt_Field_referencing_Layout@uuubss = [
+      {
+        layout = salesforce.Layout.instance.Field_referencing__mdt_Field_referencing_Layout@uuubss
+      },
+    ]
+    FinanceBalanceSnapshot_Finance_Balance_Snapshot_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.FinanceBalanceSnapshot_Finance_Balance_Snapshot_Layout@bsss
+      },
+    ]
+    FinanceTransaction_Finance_Transaction_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.FinanceTransaction_Finance_Transaction_Layout@bss
+      },
+    ]
+    Invoice_Invoice_Layout@bs = [
+      {
+        layout = salesforce.Layout.instance.Invoice_Invoice_Layout@bs
+      },
+    ]
+    InvoiceLine_Invoice_Line_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.InvoiceLine_Invoice_Line_Layout@bss
+      },
+    ]
+    Lead_To_Oppty_Mapping__mdt_Lead_To_Oppty_Mapping_Layout@uuuuubssss = [
+      {
+        layout = salesforce.Layout.instance.Lead_To_Oppty_Mapping__mdt_Lead_To_Oppty_Mapping_Layout@uuuuubssss
+      },
+    ]
+    LegalEntity_Legal_Entity_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.LegalEntity_Legal_Entity_Layout@bss
+      },
+    ]
+    LiveChatTranscriptActive_Chat_Transcript__28In_Progress_29_Layout@bsspsps = [
+      {
+        layout = "LiveChatTranscriptActive-Chat Transcript %28In Progress%29 Layout"
+      },
+    ]
+    LiveChatTranscriptWaiting_Chat_Transcript__28Waiting_29_Layout@bsspps = [
+      {
+        layout = "LiveChatTranscriptWaiting-Chat Transcript %28Waiting%29 Layout"
+      },
+    ]
+    Location_Location_Layout@bs = [
+      {
+        layout = salesforce.Layout.instance.Location_Location_Layout@bs
+      },
+    ]
+    NamespaceRegistry_Namespace_Registry_Layout@bss = [
+      {
+        layout = "NamespaceRegistry-Namespace Registry Layout"
+      },
+    ]
+    Parent__c_Parent_Layout@uubs = [
+      {
+        layout = salesforce.Layout.instance.Parent__c_Parent_Layout@uubs
+      },
+    ]
+    Payment_Payment_Layout@bs = [
+      {
+        layout = salesforce.Layout.instance.Payment_Payment_Layout@bs
+      },
+    ]
+    PaymentAuthorization_Payment_Authorization_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.PaymentAuthorization_Payment_Authorization_Layout@bss
+      },
+    ]
+    PaymentGateway_Payment_Gateway_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.PaymentGateway_Payment_Gateway_Layout@bss
+      },
+    ]
+    PaymentGatewayLog_Payment_Gateway_Log_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.PaymentGatewayLog_Payment_Gateway_Log_Layout@bsss
+      },
+    ]
+    PaymentGroup_Payment_Group_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.PaymentGroup_Payment_Group_Layout@bss
+      },
+    ]
+    PaymentLineInvoice_Payment_Line_Invoice_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.PaymentLineInvoice_Payment_Line_Invoice_Layout@bsss
+      },
+    ]
+    ProcessException_Process_Exception_Layout@bss = [
+      {
+        layout = salesforce.Layout.instance.ProcessException_Process_Exception_Layout@bss
+      },
+    ]
+    Refund_Refund_Layout@bs = [
+      {
+        layout = salesforce.Layout.instance.Refund_Refund_Layout@bs
+      },
+    ]
+    RefundLinePayment_Refund_Line_Payment_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.RefundLinePayment_Refund_Line_Payment_Layout@bsss
+      },
+    ]
+    ScratchOrgInfo_Scratch_Org_Info_Layout@bsss = [
+      {
+        layout = "ScratchOrgInfo-Scratch Org Info Layout"
+      },
+    ]
+    Seller_Seller_Layout@bs = [
+      {
+        layout = salesforce.Layout.instance.Seller_Seller_Layout@bs
+      },
+    ]
+    ServiceResourceSkill_Service_Resource_Skill_Layout@bsss = [
+      {
+        layout = salesforce.Layout.instance.ServiceResourceSkill_Service_Resource_Skill_Layout@bsss
+      },
+    ]
+    Trigger_Handler__mdt_Trigger_Handler_Layout@uuubss = [
+      {
+        layout = salesforce.Layout.instance.Trigger_Handler__mdt_Trigger_Handler_Layout@uuubss
+      },
+    ]
+    nebc__Log_Setting__mdt_nebc__Log_Setting_Layout@uuuuubuuss = [
+      {
+        layout = "nebc__Log_Setting__mdt-nebc__Log Setting Layout"
+      },
+    ]
+    nebc__Test_Record_Generator_Field__mdt_nebc__Test_Record_Generator_Field_Layout@uuuuuuubuussss = [
+      {
+        layout = "nebc__Test_Record_Generator_Field__mdt-nebc__Test Record Generator Field Layout"
+      },
+    ]
+    nebc__Test_Record_Generator__mdt_nebc__Test_Record_Generator_Layout@uuuuuubuusss = [
+      {
+        layout = "nebc__Test_Record_Generator__mdt-nebc__Test Record Generator Layout"
+      },
+    ]
+    nebc__Trigger_Handler__mdt_nebc__Trigger_Handler_Layout@uuuuubuuss = [
+      {
+        layout = "nebc__Trigger_Handler__mdt-nebc__Trigger Handler Layout"
+      },
+    ]
+  }
+}

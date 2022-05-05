@@ -1,0 +1,20 @@
+salesforce.Profile Admin {
+  customMetadataTypeAccesses = {
+    nebc__Log_Setting__mdt = {
+      enabled = true
+      name = "nebc__Log_Setting__mdt"
+    }
+    nebc__Test_Record_Generator_Field__mdt = {
+      enabled = true
+      name = "nebc__Test_Record_Generator_Field__mdt"
+    }
+    nebc__Test_Record_Generator__mdt = {
+      enabled = true
+      name = "nebc__Test_Record_Generator__mdt"
+    }
+    nebc__Trigger_Handler__mdt = {
+      enabled = true
+      name = "nebc__Trigger_Handler__mdt"
+    }
+  }
+}

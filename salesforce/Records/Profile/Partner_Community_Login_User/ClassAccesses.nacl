@@ -1,0 +1,1424 @@
+salesforce.Profile Partner_Community_Login_User@s {
+  classAccesses = {
+    AccountAverageCalculator = {
+      apexClass = salesforce.ApexClass.instance.AccountAverageCalculator
+      enabled = false
+    }
+    AccountRecordTypeId = {
+      apexClass = salesforce.ApexClass.instance.AccountRecordTypeId
+      enabled = false
+    }
+    AccountRecordTypeName = {
+      apexClass = salesforce.ApexClass.instance.AccountRecordTypeName
+      enabled = false
+    }
+    AccountTriggerHandler = {
+      apexClass = salesforce.ApexClass.instance.AccountTriggerHandler
+      enabled = false
+    }
+    Accounts = {
+      apexClass = salesforce.ApexClass.instance.Accounts
+      enabled = false
+    }
+    AccountsSelector = {
+      apexClass = salesforce.ApexClass.instance.AccountsSelector
+      enabled = false
+    }
+    BatchApexRecipes = {
+      apexClass = salesforce.ApexClass.instance.BatchApexRecipes
+      enabled = false
+    }
+    BatchApexRecipes_Tests = {
+      apexClass = salesforce.ApexClass.instance.BatchApexRecipes_Tests
+      enabled = false
+    }
+    BetterClass = {
+      apexClass = salesforce.ApexClass.instance.BetterClass
+      enabled = false
+    }
+    BoatDataService = {
+      apexClass = salesforce.ApexClass.instance.BoatDataService
+      enabled = true
+    }
+    BoatDataServiceTest = {
+      apexClass = salesforce.ApexClass.instance.BoatDataServiceTest
+      enabled = true
+    }
+    CaseCloseResource = {
+      apexClass = salesforce.ApexClass.instance.CaseCloseResource
+      enabled = false
+    }
+    CaseService = {
+      apexClass = salesforce.ApexClass.instance.CaseService
+      enabled = false
+    }
+    ChangePasswordController = {
+      apexClass = salesforce.ApexClass.instance.ChangePasswordController
+      enabled = false
+    }
+    ChangePasswordControllerTest = {
+      apexClass = salesforce.ApexClass.instance.ChangePasswordControllerTest
+      enabled = false
+    }
+    ChatterHelper = {
+      apexClass = salesforce.ApexClass.instance.ChatterHelper
+      enabled = false
+    }
+    ClassReadingField = {
+      apexClass = salesforce.ApexClass.instance.ClassReadingField
+      enabled = false
+    }
+    ClassWithOUTRealIndustry = {
+      apexClass = salesforce.ApexClass.instance.ClassWithOUTRealIndustry
+      enabled = false
+    }
+    ClassWithRealIndustry = {
+      apexClass = salesforce.ApexClass.instance.ClassWithRealIndustry
+      enabled = false
+    }
+    ClassWritingToField = {
+      apexClass = salesforce.ApexClass.instance.ClassWritingToField
+      enabled = false
+    }
+    CommunitiesLandingController = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesLandingController
+      enabled = false
+    }
+    CommunitiesLandingControllerTest = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesLandingControllerTest
+      enabled = false
+    }
+    CommunitiesLoginController = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesLoginController
+      enabled = false
+    }
+    CommunitiesLoginControllerTest = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesLoginControllerTest
+      enabled = false
+    }
+    CommunitiesSelfRegConfirmController = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesSelfRegConfirmController
+      enabled = false
+    }
+    CommunitiesSelfRegConfirmControllerTest = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesSelfRegConfirmControllerTest
+      enabled = false
+    }
+    CommunitiesSelfRegController = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesSelfRegController
+      enabled = false
+    }
+    CommunitiesSelfRegControllerTest = {
+      apexClass = salesforce.ApexClass.instance.CommunitiesSelfRegControllerTest
+      enabled = false
+    }
+    ContactTriggerHandler = {
+      apexClass = salesforce.ApexClass.instance.ContactTriggerHandler
+      enabled = false
+    }
+    ContactTriggerHandlerV2 = {
+      apexClass = salesforce.ApexClass.instance.ContactTriggerHandlerV2
+      enabled = false
+    }
+    DependencyTest = {
+      apexClass = salesforce.ApexClass.instance.DependencyTest
+      enabled = false
+    }
+    EasyCrudAndFls = {
+      apexClass = salesforce.ApexClass.instance.EasyCrudAndFls
+      enabled = true
+    }
+    EasyCrudAndFlsTest = {
+      apexClass = salesforce.ApexClass.instance.EasyCrudAndFlsTest
+      enabled = true
+    }
+    FalsePositive = {
+      apexClass = salesforce.ApexClass.instance.FalsePositive
+      enabled = false
+    }
+    FlowActionClass = {
+      apexClass = salesforce.ApexClass.instance.FlowActionClass
+      enabled = false
+    }
+    ForgotPasswordController = {
+      apexClass = salesforce.ApexClass.instance.ForgotPasswordController
+      enabled = false
+    }
+    ForgotPasswordControllerTest = {
+      apexClass = salesforce.ApexClass.instance.ForgotPasswordControllerTest
+      enabled = false
+    }
+    GenerateData = {
+      apexClass = salesforce.ApexClass.instance.GenerateData
+      enabled = true
+    }
+    GenerateDataTests = {
+      apexClass = salesforce.ApexClass.instance.GenerateDataTests
+      enabled = true
+    }
+    HappySoupApiMocks = {
+      apexClass = salesforce.ApexClass.instance.HappySoupApiMocks
+      enabled = false
+    }
+    HappySoupExtension = {
+      apexClass = salesforce.ApexClass.instance.HappySoupExtension
+      enabled = false
+    }
+    HappySoupExtensionController = {
+      apexClass = salesforce.ApexClass.instance.HappySoupExtensionController
+      enabled = false
+    }
+    HappySoupMetadataApi = {
+      apexClass = salesforce.ApexClass.instance.HappySoupMetadataApi
+      enabled = false
+    }
+    HappySoupTestData = {
+      apexClass = salesforce.ApexClass.instance.HappySoupTestData
+      enabled = false
+    }
+    ITrigger = {
+      apexClass = salesforce.ApexClass.instance.ITrigger
+      enabled = false
+    }
+    IsAdmin = {
+      apexClass = salesforce.ApexClass.instance.IsAdmin
+      enabled = false
+    }
+    LeadTriggerHandler = {
+      apexClass = salesforce.ApexClass.instance.LeadTriggerHandler
+      enabled = false
+    }
+    LeftAClass = {
+      apexClass = salesforce.ApexClass.instance.LeftAClass
+      enabled = false
+    }
+    LeftBClass = {
+      apexClass = salesforce.ApexClass.instance.LeftBClass
+      enabled = false
+    }
+    LeftClass = {
+      apexClass = salesforce.ApexClass.instance.LeftClass
+      enabled = false
+    }
+    LightningForgotPasswordController = {
+      apexClass = salesforce.ApexClass.instance.LightningForgotPasswordController
+      enabled = false
+    }
+    LightningForgotPasswordControllerTest = {
+      apexClass = salesforce.ApexClass.instance.LightningForgotPasswordControllerTest
+      enabled = false
+    }
+    LightningLoginFormController = {
+      apexClass = salesforce.ApexClass.instance.LightningLoginFormController
+      enabled = false
+    }
+    LightningLoginFormControllerTest = {
+      apexClass = salesforce.ApexClass.instance.LightningLoginFormControllerTest
+      enabled = false
+    }
+    LightningSelfRegisterController = {
+      apexClass = salesforce.ApexClass.instance.LightningSelfRegisterController
+      enabled = false
+    }
+    LightningSelfRegisterControllerTest = {
+      apexClass = salesforce.ApexClass.instance.LightningSelfRegisterControllerTest
+      enabled = false
+    }
+    MergeConflict = {
+      apexClass = salesforce.ApexClass.instance.MergeConflict
+      enabled = false
+    }
+    MicrobatchSelfRegController = {
+      apexClass = salesforce.ApexClass.instance.MicrobatchSelfRegController
+      enabled = false
+    }
+    MicrobatchSelfRegControllerTest = {
+      apexClass = salesforce.ApexClass.instance.MicrobatchSelfRegControllerTest
+      enabled = false
+    }
+    MyProfilePageController = {
+      apexClass = salesforce.ApexClass.instance.MyProfilePageController
+      enabled = false
+    }
+    MyProfilePageControllerTest = {
+      apexClass = salesforce.ApexClass.instance.MyProfilePageControllerTest
+      enabled = false
+    }
+    MyStandardFields = {
+      apexClass = salesforce.ApexClass.instance.MyStandardFields
+      enabled = false
+    }
+    NewClass = {
+      apexClass = salesforce.ApexClass.instance.NewClass
+      enabled = false
+    }
+    OpportunityService = {
+      apexClass = salesforce.ApexClass.instance.OpportunityService
+      enabled = false
+    }
+    OpportunityTriggerHelper = {
+      apexClass = salesforce.ApexClass.instance.OpportunityTriggerHelper
+      enabled = false
+    }
+    RestoreClass = {
+      apexClass = salesforce.ApexClass.instance.RestoreClass
+      enabled = false
+    }
+    RightAClass = {
+      apexClass = salesforce.ApexClass.instance.RightAClass
+      enabled = false
+    }
+    RightBClass = {
+      apexClass = salesforce.ApexClass.instance.RightBClass
+      enabled = false
+    }
+    RightClass = {
+      apexClass = salesforce.ApexClass.instance.RightClass
+      enabled = false
+    }
+    SRM_FindMatchingMetadata = {
+      apexClass = salesforce.ApexClass.instance.SRM_FindMatchingMetadata
+      enabled = false
+    }
+    SRM_GeneratePackageFlowAction = {
+      apexClass = salesforce.ApexClass.instance.SRM_GeneratePackageFlowAction
+      enabled = false
+    }
+    SRM_GeneratePackageFlowActionTests = {
+      apexClass = salesforce.ApexClass.instance.SRM_GeneratePackageFlowActionTests
+      enabled = false
+    }
+    SRM_GeneratePackageListViewConttroller = {
+      apexClass = salesforce.ApexClass.instance.SRM_GeneratePackageListViewConttroller
+      enabled = false
+    }
+    SRM_GeneratePckListViewController_Tests = {
+      apexClass = salesforce.ApexClass.instance.SRM_GeneratePckListViewController_Tests
+      enabled = false
+    }
+    SRM_MdDeployTriggerHandlerTests = {
+      apexClass = salesforce.ApexClass.instance.SRM_MdDeployTriggerHandlerTests
+      enabled = false
+    }
+    SRM_MetadataAPI = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataAPI
+      enabled = false
+    }
+    SRM_MetadataApiMocks = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataApiMocks
+      enabled = false
+    }
+    SRM_MetadataApiProxy = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataApiProxy
+      enabled = false
+    }
+    SRM_MetadataApiProxy_Tests = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataApiProxy_Tests
+      enabled = false
+    }
+    SRM_MetadataConflict = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataConflict
+      enabled = false
+    }
+    SRM_MetadataConflictWarningController = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataConflictWarningController
+      enabled = false
+    }
+    SRM_MetadataConflict_Tests = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataConflict_Tests
+      enabled = false
+    }
+    SRM_MetadataDeploymentTriggerHandler = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataDeploymentTriggerHandler
+      enabled = false
+    }
+    SRM_MetadataTriggerHandler = {
+      apexClass = salesforce.ApexClass.instance.SRM_MetadataTriggerHandler
+      enabled = false
+    }
+    SRM_MtdConflictWarningController_Tests = {
+      apexClass = salesforce.ApexClass.instance.SRM_MtdConflictWarningController_Tests
+      enabled = false
+    }
+    SRM_PackageXML = {
+      apexClass = salesforce.ApexClass.instance.SRM_PackageXML
+      enabled = false
+    }
+    SRM_PackageXML_Tests = {
+      apexClass = salesforce.ApexClass.instance.SRM_PackageXML_Tests
+      enabled = false
+    }
+    SRM_SelectMetadataExtension = {
+      apexClass = salesforce.ApexClass.instance.SRM_SelectMetadataExtension
+      enabled = false
+    }
+    SRM_SelectMetadataExtensionTests = {
+      apexClass = salesforce.ApexClass.instance.SRM_SelectMetadataExtensionTests
+      enabled = false
+    }
+    SRM_TestData = {
+      apexClass = salesforce.ApexClass.instance.SRM_TestData
+      enabled = false
+    }
+    SaltoUIController = {
+      apexClass = salesforce.ApexClass.instance.SaltoUIController
+      enabled = false
+    }
+    SameName = {
+      apexClass = salesforce.ApexClass.instance.SameName
+      enabled = false
+    }
+    SimilarBoatsController = {
+      apexClass = salesforce.ApexClass.instance.SimilarBoatsController
+      enabled = true
+    }
+    SimilarBoatsControllerTest = {
+      apexClass = salesforce.ApexClass.instance.SimilarBoatsControllerTest
+      enabled = true
+    }
+    SiteLoginController = {
+      apexClass = salesforce.ApexClass.instance.SiteLoginController
+      enabled = false
+    }
+    SiteLoginControllerTest = {
+      apexClass = salesforce.ApexClass.instance.SiteLoginControllerTest
+      enabled = false
+    }
+    SiteRegisterController = {
+      apexClass = salesforce.ApexClass.instance.SiteRegisterController
+      enabled = false
+    }
+    SiteRegisterControllerTest = {
+      apexClass = salesforce.ApexClass.instance.SiteRegisterControllerTest
+      enabled = false
+    }
+    StaticTest = {
+      apexClass = salesforce.ApexClass.instance.StaticTest
+      enabled = false
+    }
+    SupportEmail = {
+      apexClass = salesforce.ApexClass.instance.SupportEmail
+      enabled = false
+    }
+    TemplateClass = {
+      apexClass = salesforce.ApexClass.instance.TemplateClass
+      enabled = false
+    }
+    TestFactory = {
+      apexClass = salesforce.ApexClass.instance.TestFactory
+      enabled = false
+    }
+    TomerTest1 = {
+      apexClass = salesforce.ApexClass.instance.TomerTest1
+      enabled = false
+    }
+    TomerTest2 = {
+      apexClass = salesforce.ApexClass.instance.TomerTest2
+      enabled = false
+    }
+    TopLevelClass = {
+      apexClass = salesforce.ApexClass.instance.TopLevelClass
+      enabled = false
+    }
+    TriggerArchitectureClass1 = {
+      apexClass = salesforce.ApexClass.instance.TriggerArchitectureClass1
+      enabled = false
+    }
+    TriggerDMLSupport = {
+      apexClass = salesforce.ApexClass.instance.TriggerDMLSupport
+      enabled = false
+    }
+    TriggerDispatcher = {
+      apexClass = salesforce.ApexClass.instance.TriggerDispatcher
+      enabled = false
+    }
+    TriggerFactory = {
+      apexClass = salesforce.ApexClass.instance.TriggerFactory
+      enabled = false
+    }
+    TriggerHandlerBase = {
+      apexClass = salesforce.ApexClass.instance.TriggerHandlerBase
+      enabled = false
+    }
+    TriggerUtils_TriggerStatus = {
+      apexClass = salesforce.ApexClass.instance.TriggerUtils_TriggerStatus
+      enabled = false
+    }
+    UnitOfWorkTest = {
+      apexClass = salesforce.ApexClass.instance.UnitOfWorkTest
+      enabled = false
+    }
+    UserStoryOne = {
+      apexClass = salesforce.ApexClass.instance.UserStoryOne
+      enabled = false
+    }
+    Utils_Apex = {
+      apexClass = salesforce.ApexClass.instance.Utils_Apex
+      enabled = false
+    }
+    WatchForStageUpdates = {
+      apexClass = salesforce.ApexClass.instance.WatchForStageUpdates
+      enabled = false
+    }
+    WebCallout = {
+      apexClass = salesforce.ApexClass.instance.WebCallout
+      enabled = false
+    }
+    fflib_Answer = {
+      apexClass = salesforce.ApexClass.instance.fflib_Answer
+      enabled = false
+    }
+    fflib_AnswerTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_AnswerTest
+      enabled = false
+    }
+    fflib_AnyOrder = {
+      apexClass = salesforce.ApexClass.instance.fflib_AnyOrder
+      enabled = false
+    }
+    fflib_AnyOrderTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_AnyOrderTest
+      enabled = false
+    }
+    fflib_ApexMocks = {
+      apexClass = salesforce.ApexClass.instance.fflib_ApexMocks
+      enabled = false
+    }
+    fflib_ApexMocksConfig = {
+      apexClass = salesforce.ApexClass.instance.fflib_ApexMocksConfig
+      enabled = false
+    }
+    fflib_ApexMocksTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_ApexMocksTest
+      enabled = false
+    }
+    fflib_ApexMocksUtils = {
+      apexClass = salesforce.ApexClass.instance.fflib_ApexMocksUtils
+      enabled = false
+    }
+    fflib_ApexMocksUtilsTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_ApexMocksUtilsTest
+      enabled = false
+    }
+    fflib_Application = {
+      apexClass = salesforce.ApexClass.instance.fflib_Application
+      enabled = false
+    }
+    fflib_ApplicationTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_ApplicationTest
+      enabled = false
+    }
+    fflib_ArgumentCaptor = {
+      apexClass = salesforce.ApexClass.instance.fflib_ArgumentCaptor
+      enabled = false
+    }
+    fflib_ArgumentCaptorTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_ArgumentCaptorTest
+      enabled = false
+    }
+    fflib_IDGenerator = {
+      apexClass = salesforce.ApexClass.instance.fflib_IDGenerator
+      enabled = false
+    }
+    fflib_IDGeneratorTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_IDGeneratorTest
+      enabled = false
+    }
+    fflib_IMatcher = {
+      apexClass = salesforce.ApexClass.instance.fflib_IMatcher
+      enabled = false
+    }
+    fflib_ISObjectDomain = {
+      apexClass = salesforce.ApexClass.instance.fflib_ISObjectDomain
+      enabled = false
+    }
+    fflib_ISObjectSelector = {
+      apexClass = salesforce.ApexClass.instance.fflib_ISObjectSelector
+      enabled = false
+    }
+    fflib_ISObjectUnitOfWork = {
+      apexClass = salesforce.ApexClass.instance.fflib_ISObjectUnitOfWork
+      enabled = false
+    }
+    fflib_InOrder = {
+      apexClass = salesforce.ApexClass.instance.fflib_InOrder
+      enabled = false
+    }
+    fflib_InOrderTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_InOrderTest
+      enabled = false
+    }
+    fflib_Inheritor = {
+      apexClass = salesforce.ApexClass.instance.fflib_Inheritor
+      enabled = false
+    }
+    fflib_InheritorTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_InheritorTest
+      enabled = false
+    }
+    fflib_InvocationOnMock = {
+      apexClass = salesforce.ApexClass.instance.fflib_InvocationOnMock
+      enabled = false
+    }
+    fflib_Match = {
+      apexClass = salesforce.ApexClass.instance.fflib_Match
+      enabled = false
+    }
+    fflib_MatchTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_MatchTest
+      enabled = false
+    }
+    fflib_MatcherDefinitions = {
+      apexClass = salesforce.ApexClass.instance.fflib_MatcherDefinitions
+      enabled = false
+    }
+    fflib_MatcherDefinitionsTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_MatcherDefinitionsTest
+      enabled = false
+    }
+    fflib_MatchersReturnValue = {
+      apexClass = salesforce.ApexClass.instance.fflib_MatchersReturnValue
+      enabled = false
+    }
+    fflib_MethodArgValues = {
+      apexClass = salesforce.ApexClass.instance.fflib_MethodArgValues
+      enabled = false
+    }
+    fflib_MethodArgValuesTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_MethodArgValuesTest
+      enabled = false
+    }
+    fflib_MethodCountRecorder = {
+      apexClass = salesforce.ApexClass.instance.fflib_MethodCountRecorder
+      enabled = false
+    }
+    fflib_MethodReturnValue = {
+      apexClass = salesforce.ApexClass.instance.fflib_MethodReturnValue
+      enabled = false
+    }
+    fflib_MethodReturnValueRecorder = {
+      apexClass = salesforce.ApexClass.instance.fflib_MethodReturnValueRecorder
+      enabled = false
+    }
+    fflib_MethodVerifier = {
+      apexClass = salesforce.ApexClass.instance.fflib_MethodVerifier
+      enabled = false
+    }
+    fflib_Mocks = {
+      apexClass = salesforce.ApexClass.instance.fflib_Mocks
+      enabled = false
+    }
+    fflib_MyList = {
+      apexClass = salesforce.ApexClass.instance.fflib_MyList
+      enabled = false
+    }
+    fflib_QualifiedMethod = {
+      apexClass = salesforce.ApexClass.instance.fflib_QualifiedMethod
+      enabled = false
+    }
+    fflib_QualifiedMethodAndArgValues = {
+      apexClass = salesforce.ApexClass.instance.fflib_QualifiedMethodAndArgValues
+      enabled = false
+    }
+    fflib_QualifiedMethodTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_QualifiedMethodTest
+      enabled = false
+    }
+    fflib_QueryFactory = {
+      apexClass = salesforce.ApexClass.instance.fflib_QueryFactory
+      enabled = false
+    }
+    fflib_QueryFactoryTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_QueryFactoryTest
+      enabled = false
+    }
+    fflib_SObjectDescribe = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectDescribe
+      enabled = false
+    }
+    fflib_SObjectDescribeTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectDescribeTest
+      enabled = false
+    }
+    fflib_SObjectDomain = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectDomain
+      enabled = false
+    }
+    fflib_SObjectDomainTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectDomainTest
+      enabled = false
+    }
+    fflib_SObjectMocks = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectMocks
+      enabled = false
+    }
+    fflib_SObjectSelector = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectSelector
+      enabled = false
+    }
+    fflib_SObjectSelectorTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectSelectorTest
+      enabled = false
+    }
+    fflib_SObjectUnitOfWork = {
+      apexClass = salesforce.ApexClass.instance.fflib_SObjectUnitOfWork
+      enabled = false
+    }
+    fflib_SecurityUtils = {
+      apexClass = salesforce.ApexClass.instance.fflib_SecurityUtils
+      enabled = false
+    }
+    fflib_SecurityUtilsTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_SecurityUtilsTest
+      enabled = false
+    }
+    fflib_StringBuilder = {
+      apexClass = salesforce.ApexClass.instance.fflib_StringBuilder
+      enabled = false
+    }
+    fflib_StringBuilderTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_StringBuilderTest
+      enabled = false
+    }
+    fflib_System = {
+      apexClass = salesforce.ApexClass.instance.fflib_System
+      enabled = false
+    }
+    fflib_SystemTest = {
+      apexClass = salesforce.ApexClass.instance.fflib_SystemTest
+      enabled = false
+    }
+    fflib_VerificationMode = {
+      apexClass = salesforce.ApexClass.instance.fflib_VerificationMode
+      enabled = false
+    }
+    nebc__AccumulatorFunction = {
+      apexClass = "nebc__AccumulatorFunction"
+      enabled = false
+    }
+    nebc__AccumulatorObject = {
+      apexClass = "nebc__AccumulatorObject"
+      enabled = false
+    }
+    nebc__Add = {
+      apexClass = "nebc__Add"
+      enabled = false
+    }
+    nebc__AfterDelete = {
+      apexClass = "nebc__AfterDelete"
+      enabled = false
+    }
+    nebc__AfterInsert = {
+      apexClass = "nebc__AfterInsert"
+      enabled = false
+    }
+    nebc__AfterUndelete = {
+      apexClass = "nebc__AfterUndelete"
+      enabled = false
+    }
+    nebc__AfterUpdate = {
+      apexClass = "nebc__AfterUpdate"
+      enabled = false
+    }
+    nebc__BeforeDelete = {
+      apexClass = "nebc__BeforeDelete"
+      enabled = false
+    }
+    nebc__BeforeInsert = {
+      apexClass = "nebc__BeforeInsert"
+      enabled = false
+    }
+    nebc__BeforeUpdate = {
+      apexClass = "nebc__BeforeUpdate"
+      enabled = false
+    }
+    nebc__BinaryComposition = {
+      apexClass = "nebc__BinaryComposition"
+      enabled = false
+    }
+    nebc__BinaryFunction = {
+      apexClass = "nebc__BinaryFunction"
+      enabled = false
+    }
+    nebc__BinaryFunctionWithConversion = {
+      apexClass = "nebc__BinaryFunctionWithConversion"
+      enabled = false
+    }
+    nebc__BooleanFunction = {
+      apexClass = "nebc__BooleanFunction"
+      enabled = false
+    }
+    nebc__BooleanFunctionToFunction = {
+      apexClass = "nebc__BooleanFunctionToFunction"
+      enabled = false
+    }
+    nebc__BooleanFunctionsTest = {
+      apexClass = "nebc__BooleanFunctionsTest"
+      enabled = false
+    }
+    nebc__ClassNotFoundException = {
+      apexClass = "nebc__ClassNotFoundException"
+      enabled = false
+    }
+    nebc__Comparator = {
+      apexClass = "nebc__Comparator"
+      enabled = false
+    }
+    nebc__CompositeTestRecordGenerator = {
+      apexClass = "nebc__CompositeTestRecordGenerator"
+      enabled = false
+    }
+    nebc__Composition = {
+      apexClass = "nebc__Composition"
+      enabled = false
+    }
+    nebc__ConstantBooleanFunction = {
+      apexClass = "nebc__ConstantBooleanFunction"
+      enabled = false
+    }
+    nebc__ConstantFunction = {
+      apexClass = "nebc__ConstantFunction"
+      enabled = false
+    }
+    nebc__Constants = {
+      apexClass = "nebc__Constants"
+      enabled = false
+    }
+    nebc__Container = {
+      apexClass = "nebc__Container"
+      enabled = false
+    }
+    nebc__DatabaseResult = {
+      apexClass = "nebc__DatabaseResult"
+      enabled = false
+    }
+    nebc__DebugLogger = {
+      apexClass = "nebc__DebugLogger"
+      enabled = false
+    }
+    nebc__DebugLoggerTest = {
+      apexClass = "nebc__DebugLoggerTest"
+      enabled = false
+    }
+    nebc__DeleteResult = {
+      apexClass = "nebc__DeleteResult"
+      enabled = false
+    }
+    nebc__DeployableMetadataFromSObject = {
+      apexClass = "nebc__DeployableMetadataFromSObject"
+      enabled = false
+    }
+    nebc__DescribeCache = {
+      apexClass = "nebc__DescribeCache"
+      enabled = false
+    }
+    nebc__EmailResultsMetadataDeployCallback = {
+      apexClass = "nebc__EmailResultsMetadataDeployCallback"
+      enabled = false
+    }
+    nebc__EmptyIterator = {
+      apexClass = "nebc__EmptyIterator"
+      enabled = false
+    }
+    nebc__ExceptionMock = {
+      apexClass = "nebc__ExceptionMock"
+      enabled = false
+    }
+    nebc__ExpansionFunction = {
+      apexClass = "nebc__ExpansionFunction"
+      enabled = false
+    }
+    nebc__ExpansionFunctionToIterator = {
+      apexClass = "nebc__ExpansionFunctionToIterator"
+      enabled = false
+    }
+    nebc__ExpansionIterator = {
+      apexClass = "nebc__ExpansionIterator"
+      enabled = false
+    }
+    nebc__FieldFromSObject = {
+      apexClass = "nebc__FieldFromSObject"
+      enabled = false
+    }
+    nebc__FieldFromSObjectString = {
+      apexClass = "nebc__FieldFromSObjectString"
+      enabled = false
+    }
+    nebc__FirstOrDefault = {
+      apexClass = "nebc__FirstOrDefault"
+      enabled = false
+    }
+    nebc__ForEach = {
+      apexClass = "nebc__ForEach"
+      enabled = false
+    }
+    nebc__ForkIterator = {
+      apexClass = "nebc__ForkIterator"
+      enabled = false
+    }
+    nebc__ForkManager = {
+      apexClass = "nebc__ForkManager"
+      enabled = false
+    }
+    nebc__Function = {
+      apexClass = "nebc__Function"
+      enabled = false
+    }
+    nebc__FunctionList = {
+      apexClass = "nebc__FunctionList"
+      enabled = false
+    }
+    nebc__FunctionToBooleanFunction = {
+      apexClass = "nebc__FunctionToBooleanFunction"
+      enabled = false
+    }
+    nebc__GetFrom = {
+      apexClass = "nebc__GetFrom"
+      enabled = false
+    }
+    nebc__GetTest = {
+      apexClass = "nebc__GetTest"
+      enabled = false
+    }
+    nebc__Gettable = {
+      apexClass = "nebc__Gettable"
+      enabled = false
+    }
+    nebc__HasNext = {
+      apexClass = "nebc__HasNext"
+      enabled = false
+    }
+    nebc__IdentityFunction = {
+      apexClass = "nebc__IdentityFunction"
+      enabled = false
+    }
+    nebc__IllegalStateException = {
+      apexClass = "nebc__IllegalStateException"
+      enabled = false
+    }
+    nebc__IsAll = {
+      apexClass = "nebc__IsAll"
+      enabled = false
+    }
+    nebc__IsAny = {
+      apexClass = "nebc__IsAny"
+      enabled = false
+    }
+    nebc__IsAnyFieldChangedInTrigger = {
+      apexClass = "nebc__IsAnyFieldChangedInTrigger"
+      enabled = false
+    }
+    nebc__IsContainedIn = {
+      apexClass = "nebc__IsContainedIn"
+      enabled = false
+    }
+    nebc__IsContainedInTest = {
+      apexClass = "nebc__IsContainedInTest"
+      enabled = false
+    }
+    nebc__IsEqual = {
+      apexClass = "nebc__IsEqual"
+      enabled = false
+    }
+    nebc__IsFieldChangedInTrigger = {
+      apexClass = "nebc__IsFieldChangedInTrigger"
+      enabled = false
+    }
+    nebc__IsFunctionTest = {
+      apexClass = "nebc__IsFunctionTest"
+      enabled = false
+    }
+    nebc__IsGreaterThan = {
+      apexClass = "nebc__IsGreaterThan"
+      enabled = false
+    }
+    nebc__IsInSObjectIndex = {
+      apexClass = "nebc__IsInSObjectIndex"
+      enabled = false
+    }
+    nebc__IsInSObjectIndexTest = {
+      apexClass = "nebc__IsInSObjectIndexTest"
+      enabled = false
+    }
+    nebc__IsLessThan = {
+      apexClass = "nebc__IsLessThan"
+      enabled = false
+    }
+    nebc__IsNot = {
+      apexClass = "nebc__IsNot"
+      enabled = false
+    }
+    nebc__IsNotNull = {
+      apexClass = "nebc__IsNotNull"
+      enabled = false
+    }
+    nebc__IsNotSuccess = {
+      apexClass = "nebc__IsNotSuccess"
+      enabled = false
+    }
+    nebc__IsNull = {
+      apexClass = "nebc__IsNull"
+      enabled = false
+    }
+    nebc__IsRecordType = {
+      apexClass = "nebc__IsRecordType"
+      enabled = false
+    }
+    nebc__IsSObjectFieldEqual = {
+      apexClass = "nebc__IsSObjectFieldEqual"
+      enabled = false
+    }
+    nebc__IsSuccess = {
+      apexClass = "nebc__IsSuccess"
+      enabled = false
+    }
+    nebc__IsUnique = {
+      apexClass = "nebc__IsUnique"
+      enabled = false
+    }
+    nebc__IsUniqueOn = {
+      apexClass = "nebc__IsUniqueOn"
+      enabled = false
+    }
+    nebc__JsonDeserialize = {
+      apexClass = "nebc__JsonDeserialize"
+      enabled = false
+    }
+    nebc__JsonObjectToSObject = {
+      apexClass = "nebc__JsonObjectToSObject"
+      enabled = false
+    }
+    nebc__JsonObjectToSObjectTest = {
+      apexClass = "nebc__JsonObjectToSObjectTest"
+      enabled = false
+    }
+    nebc__JsonSerialize = {
+      apexClass = "nebc__JsonSerialize"
+      enabled = false
+    }
+    nebc__LazyAppendIterator = {
+      apexClass = "nebc__LazyAppendIterator"
+      enabled = false
+    }
+    nebc__LazyDefaultIfEmptyIterator = {
+      apexClass = "nebc__LazyDefaultIfEmptyIterator"
+      enabled = false
+    }
+    nebc__LazyExpansionIterator = {
+      apexClass = "nebc__LazyExpansionIterator"
+      enabled = false
+    }
+    nebc__LazyExpansionIteratorTest = {
+      apexClass = "nebc__LazyExpansionIteratorTest"
+      enabled = false
+    }
+    nebc__LazyFilterIterator = {
+      apexClass = "nebc__LazyFilterIterator"
+      enabled = false
+    }
+    nebc__LazyIdIterator = {
+      apexClass = "nebc__LazyIdIterator"
+      enabled = false
+    }
+    nebc__LazyIterator = {
+      apexClass = "nebc__LazyIterator"
+      enabled = false
+    }
+    nebc__LazyIteratorExpansionIterator = {
+      apexClass = "nebc__LazyIteratorExpansionIterator"
+      enabled = false
+    }
+    nebc__LazyIteratorForkingTest = {
+      apexClass = "nebc__LazyIteratorForkingTest"
+      enabled = false
+    }
+    nebc__LazyIteratorMutator = {
+      apexClass = "nebc__LazyIteratorMutator"
+      enabled = false
+    }
+    nebc__LazyIteratorTest = {
+      apexClass = "nebc__LazyIteratorTest"
+      enabled = false
+    }
+    nebc__LazyMappingConditionalIterator = {
+      apexClass = "nebc__LazyMappingConditionalIterator"
+      enabled = false
+    }
+    nebc__LazyMappingIterator = {
+      apexClass = "nebc__LazyMappingIterator"
+      enabled = false
+    }
+    nebc__LazySObjectIterator = {
+      apexClass = "nebc__LazySObjectIterator"
+      enabled = false
+    }
+    nebc__LazySObjectIteratorTest = {
+      apexClass = "nebc__LazySObjectIteratorTest"
+      enabled = false
+    }
+    nebc__LazyStringIterator = {
+      apexClass = "nebc__LazyStringIterator"
+      enabled = false
+    }
+    nebc__LazyTakeIterator = {
+      apexClass = "nebc__LazyTakeIterator"
+      enabled = false
+    }
+    nebc__LazyTriggerContextPairIterator = {
+      apexClass = "nebc__LazyTriggerContextPairIterator"
+      enabled = false
+    }
+    nebc__LazyTriggerContextPairIteratorTest = {
+      apexClass = "nebc__LazyTriggerContextPairIteratorTest"
+      enabled = false
+    }
+    nebc__Left = {
+      apexClass = "nebc__Left"
+      enabled = false
+    }
+    nebc__LimitDatum = {
+      apexClass = "nebc__LimitDatum"
+      enabled = false
+    }
+    nebc__LimitMeasure = {
+      apexClass = "nebc__LimitMeasure"
+      enabled = false
+    }
+    nebc__LimitMeasureTest = {
+      apexClass = "nebc__LimitMeasureTest"
+      enabled = false
+    }
+    nebc__ListTuple = {
+      apexClass = "nebc__ListTuple"
+      enabled = false
+    }
+    nebc__Lists = {
+      apexClass = "nebc__Lists"
+      enabled = false
+    }
+    nebc__ListsTest = {
+      apexClass = "nebc__ListsTest"
+      enabled = false
+    }
+    nebc__Log = {
+      apexClass = "nebc__Log"
+      enabled = false
+    }
+    nebc__LogMethod = {
+      apexClass = "nebc__LogMethod"
+      enabled = false
+    }
+    nebc__Logger = {
+      apexClass = "nebc__Logger"
+      enabled = false
+    }
+    nebc__LoggerTest = {
+      apexClass = "nebc__LoggerTest"
+      enabled = false
+    }
+    nebc__MetadataTriggerManager = {
+      apexClass = "nebc__MetadataTriggerManager"
+      enabled = false
+    }
+    nebc__MetadataTriggerManagerTest = {
+      apexClass = "nebc__MetadataTriggerManagerTest"
+      enabled = false
+    }
+    nebc__NamedSObjectCache = {
+      apexClass = "nebc__NamedSObjectCache"
+      enabled = false
+    }
+    nebc__NamedSObjectCacheTest = {
+      apexClass = "nebc__NamedSObjectCacheTest"
+      enabled = false
+    }
+    nebc__NebulaApi = {
+      apexClass = "nebc__NebulaApi"
+      enabled = false
+    }
+    nebc__NebulaApiException = {
+      apexClass = "nebc__NebulaApiException"
+      enabled = false
+    }
+    nebc__NebulaApiTest = {
+      apexClass = "nebc__NebulaApiTest"
+      enabled = false
+    }
+    nebc__NewFromTriggerContextPair = {
+      apexClass = "nebc__NewFromTriggerContextPair"
+      enabled = false
+    }
+    nebc__NewInstance = {
+      apexClass = "nebc__NewInstance"
+      enabled = false
+    }
+    nebc__Next = {
+      apexClass = "nebc__Next"
+      enabled = false
+    }
+    nebc__NoResult = {
+      apexClass = "nebc__NoResult"
+      enabled = false
+    }
+    nebc__NoSuchMethodException = {
+      apexClass = "nebc__NoSuchMethodException"
+      enabled = false
+    }
+    nebc__NullaryFunction = {
+      apexClass = "nebc__NullaryFunction"
+      enabled = false
+    }
+    nebc__OldFromTriggerContextPair = {
+      apexClass = "nebc__OldFromTriggerContextPair"
+      enabled = false
+    }
+    nebc__OrganizationInfo = {
+      apexClass = "nebc__OrganizationInfo"
+      enabled = false
+    }
+    nebc__QueryBuilder = {
+      apexClass = "nebc__QueryBuilder"
+      enabled = false
+    }
+    nebc__QueryBuilderTest = {
+      apexClass = "nebc__QueryBuilderTest"
+      enabled = false
+    }
+    nebc__Reduce = {
+      apexClass = "nebc__Reduce"
+      enabled = false
+    }
+    nebc__Right = {
+      apexClass = "nebc__Right"
+      enabled = false
+    }
+    nebc__SObjectAddError = {
+      apexClass = "nebc__SObjectAddError"
+      enabled = false
+    }
+    nebc__SObjectFromPrimitives = {
+      apexClass = "nebc__SObjectFromPrimitives"
+      enabled = false
+    }
+    nebc__SObjectFromPrimitivesTest = {
+      apexClass = "nebc__SObjectFromPrimitivesTest"
+      enabled = false
+    }
+    nebc__SObjectFromPrototype = {
+      apexClass = "nebc__SObjectFromPrototype"
+      enabled = false
+    }
+    nebc__SObjectFromSObject = {
+      apexClass = "nebc__SObjectFromSObject"
+      enabled = false
+    }
+    nebc__SObjectFromSObjectTest = {
+      apexClass = "nebc__SObjectFromSObjectTest"
+      enabled = false
+    }
+    nebc__SObjectGetter = {
+      apexClass = "nebc__SObjectGetter"
+      enabled = false
+    }
+    nebc__SObjectGetterTest = {
+      apexClass = "nebc__SObjectGetterTest"
+      enabled = false
+    }
+    nebc__SObjectIndex = {
+      apexClass = "nebc__SObjectIndex"
+      enabled = false
+    }
+    nebc__SObjectIndexI = {
+      apexClass = "nebc__SObjectIndexI"
+      enabled = false
+    }
+    nebc__SObjectIndexLeaf = {
+      apexClass = "nebc__SObjectIndexLeaf"
+      enabled = false
+    }
+    nebc__SObjectIndexTest = {
+      apexClass = "nebc__SObjectIndexTest"
+      enabled = false
+    }
+    nebc__SObjectPutField = {
+      apexClass = "nebc__SObjectPutField"
+      enabled = false
+    }
+    nebc__SObjectSetField = {
+      apexClass = "nebc__SObjectSetField"
+      enabled = false
+    }
+    nebc__SObjectSetFieldTest = {
+      apexClass = "nebc__SObjectSetFieldTest"
+      enabled = false
+    }
+    nebc__SObjectToJsonObject = {
+      apexClass = "nebc__SObjectToJsonObject"
+      enabled = false
+    }
+    nebc__SObjectToJsonObjectTest = {
+      apexClass = "nebc__SObjectToJsonObjectTest"
+      enabled = false
+    }
+    nebc__SObjectToSelectOption = {
+      apexClass = "nebc__SObjectToSelectOption"
+      enabled = false
+    }
+    nebc__SObjectToSelectOptionTest = {
+      apexClass = "nebc__SObjectToSelectOptionTest"
+      enabled = false
+    }
+    nebc__SObjectsFromIndex = {
+      apexClass = "nebc__SObjectsFromIndex"
+      enabled = false
+    }
+    nebc__SObjectsFromIndexTest = {
+      apexClass = "nebc__SObjectsFromIndexTest"
+      enabled = false
+    }
+    nebc__SObjectsFromSObject = {
+      apexClass = "nebc__SObjectsFromSObject"
+      enabled = false
+    }
+    nebc__SObjectsFromSObjectString = {
+      apexClass = "nebc__SObjectsFromSObjectString"
+      enabled = false
+    }
+    nebc__SaveResult = {
+      apexClass = "nebc__SaveResult"
+      enabled = false
+    }
+    nebc__Serializer = {
+      apexClass = "nebc__Serializer"
+      enabled = false
+    }
+    nebc__SingletonIterator = {
+      apexClass = "nebc__SingletonIterator"
+      enabled = false
+    }
+    nebc__StackTraceException = {
+      apexClass = "nebc__StackTraceException"
+      enabled = false
+    }
+    nebc__StackTraces = {
+      apexClass = "nebc__StackTraces"
+      enabled = false
+    }
+    nebc__StackTracesTest = {
+      apexClass = "nebc__StackTracesTest"
+      enabled = false
+    }
+    nebc__StandardTestRecordGenerators = {
+      apexClass = "nebc__StandardTestRecordGenerators"
+      enabled = false
+    }
+    nebc__StandardTestRecordGeneratorsTest = {
+      apexClass = "nebc__StandardTestRecordGeneratorsTest"
+      enabled = false
+    }
+    nebc__StringLowerCaseFunction = {
+      apexClass = "nebc__StringLowerCaseFunction"
+      enabled = false
+    }
+    nebc__TerminatorFunction = {
+      apexClass = "nebc__TerminatorFunction"
+      enabled = false
+    }
+    nebc__TestFieldFunction = {
+      apexClass = "nebc__TestFieldFunction"
+      enabled = false
+    }
+    nebc__TestFieldFunctions = {
+      apexClass = "nebc__TestFieldFunctions"
+      enabled = false
+    }
+    nebc__TestFieldFunctionsTest = {
+      apexClass = "nebc__TestFieldFunctionsTest"
+      enabled = false
+    }
+    nebc__TestIdGenerator = {
+      apexClass = "nebc__TestIdGenerator"
+      enabled = false
+    }
+    nebc__TestMetadataRecordGenerator = {
+      apexClass = "nebc__TestMetadataRecordGenerator"
+      enabled = false
+    }
+    nebc__TestRecordGenerator = {
+      apexClass = "nebc__TestRecordGenerator"
+      enabled = false
+    }
+    nebc__TestRecordGeneratorException = {
+      apexClass = "nebc__TestRecordGeneratorException"
+      enabled = false
+    }
+    nebc__TestRecordSource = {
+      apexClass = "nebc__TestRecordSource"
+      enabled = false
+    }
+    nebc__TestRecordSourceTest = {
+      apexClass = "nebc__TestRecordSourceTest"
+      enabled = false
+    }
+    nebc__ToList = {
+      apexClass = "nebc__ToList"
+      enabled = false
+    }
+    nebc__ToPair = {
+      apexClass = "nebc__ToPair"
+      enabled = false
+    }
+    nebc__ToSet = {
+      apexClass = "nebc__ToSet"
+      enabled = false
+    }
+    nebc__TriggerContextBooleanFunction = {
+      apexClass = "nebc__TriggerContextBooleanFunction"
+      enabled = false
+    }
+    nebc__TriggerContextIterator = {
+      apexClass = "nebc__TriggerContextIterator"
+      enabled = false
+    }
+    nebc__TriggerContextPair = {
+      apexClass = "nebc__TriggerContextPair"
+      enabled = false
+    }
+    nebc__TriggerContextPairExpandToBoth = {
+      apexClass = "nebc__TriggerContextPairExpandToBoth"
+      enabled = false
+    }
+    nebc__TriggerContextPairFunction = {
+      apexClass = "nebc__TriggerContextPairFunction"
+      enabled = false
+    }
+    nebc__TriggerContextPairVoidFunction = {
+      apexClass = "nebc__TriggerContextPairVoidFunction"
+      enabled = false
+    }
+    nebc__Tuple = {
+      apexClass = "nebc__Tuple"
+      enabled = false
+    }
+    nebc__TupleIterator = {
+      apexClass = "nebc__TupleIterator"
+      enabled = false
+    }
+    nebc__TypeLoader = {
+      apexClass = "nebc__TypeLoader"
+      enabled = false
+    }
+    nebc__VoidFunction = {
+      apexClass = "nebc__VoidFunction"
+      enabled = false
+    }
+    trlhdtips__tt_UtilController = {
+      apexClass = "trlhdtips__tt_UtilController"
+      enabled = false
+    }
+    trlhdtips__tt_UtilControllerTest = {
+      apexClass = "trlhdtips__tt_UtilControllerTest"
+      enabled = false
+    }
+  }
+}

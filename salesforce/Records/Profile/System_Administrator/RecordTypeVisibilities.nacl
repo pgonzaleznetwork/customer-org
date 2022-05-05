@@ -1,0 +1,33 @@
+salesforce.Profile Admin {
+  recordTypeVisibilities = {
+    Account = {
+      Customer = {
+        default = false
+        recordType = salesforce.RecordType.instance.Account_Customer
+        visible = true
+      }
+      Internal = {
+        default = false
+        recordType = salesforce.RecordType.instance.Account_Internal
+        visible = true
+      }
+      Partner = {
+        default = true
+        recordType = salesforce.RecordType.instance.Account_Partner
+        visible = true
+      }
+      Reseller = {
+        default = false
+        recordType = salesforce.RecordType.instance.Account_Reseller
+        visible = true
+      }
+    }
+    Idea = {
+      InternalIdeasIdeaRecordType = {
+        default = false
+        recordType = salesforce.RecordType.instance.Idea_InternalIdeasIdeaRecordType
+        visible = false
+      }
+    }
+  }
+}

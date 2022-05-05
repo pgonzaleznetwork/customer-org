@@ -1,0 +1,64 @@
+salesforce.Profile Chatter_External_User@s {
+  flowAccesses = {
+    Account_Formulas = {
+      enabled = false
+      flow = salesforce.Flow.instance.Account_Formulas
+    }
+    Another_flow_with_multiple_references = {
+      enabled = false
+      flow = salesforce.Flow.instance.Another_flow_with_multiple_references
+    }
+    Auto_launched_flow = {
+      enabled = false
+      flow = salesforce.Flow.instance.Auto_launched_flow
+    }
+    Awesome_Flow = {
+      enabled = false
+      flow = salesforce.Flow.instance.Awesome_Flow
+    }
+    Flow_using_apex_class = {
+      enabled = false
+      flow = salesforce.Flow.instance.Flow_using_apex_class
+    }
+    Flow_using_field_in_Assignment = {
+      enabled = false
+      flow = salesforce.Flow.instance.Flow_using_field_in_Assignment
+    }
+    Flow_using_picklist = {
+      enabled = false
+      flow = salesforce.Flow.instance.Flow_using_picklist
+    }
+    Flow_with_a_sub_flow = {
+      enabled = false
+      flow = salesforce.Flow.instance.Flow_with_a_sub_flow
+    }
+    Flow_with_multiple_references = {
+      enabled = false
+      flow = salesforce.Flow.instance.Flow_with_multiple_references
+    }
+    New_Flow_using_field_as_criteria = {
+      enabled = false
+      flow = salesforce.Flow.instance.New_Flow_using_field_as_criteria
+    }
+    Process_Updating_Field = {
+      enabled = false
+      flow = salesforce.Flow.instance.Process_Updating_Field
+    }
+    Process_using_field_as_criteria = {
+      enabled = false
+      flow = salesforce.Flow.instance.Process_using_field_as_criteria
+    }
+    Process_using_field_as_update_criteria = {
+      enabled = false
+      flow = salesforce.Flow.instance.Process_using_field_as_update_criteria
+    }
+    Process_using_flow = {
+      enabled = false
+      flow = salesforce.Flow.instance.Process_using_flow
+    }
+    test_builder = {
+      enabled = false
+      flow = salesforce.Flow.instance.test_builder
+    }
+  }
+}
